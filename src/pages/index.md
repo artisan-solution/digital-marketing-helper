@@ -5,9 +5,6 @@ sections:
     title: Digital Marketing Helper
     subtitle: Confiez-nous votre marketing digital.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
