@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/undraw_social_growth_d0y3.png
+    image: images/undraw_social_growth_d0y3.svg
     image_position: right
     has_background: true
     background:
