@@ -24,7 +24,7 @@ sections:
       - title: Publicité Facebook (ads)
         content: Touchez directement votre clientèle grâce a la publicité ciblée
         align: left
-        image: images/undraw_online_ad_mg4t.png
+        image: images/will-francis-r02wxT3-PYw-unsplash.jpg
         image_position: right
         actions: []
       - title: Référencement Google Ads
