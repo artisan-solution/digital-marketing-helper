@@ -30,7 +30,7 @@ sections:
       - title: Référencement Google Ads
         content: Apparaissez dans les premiers résultats des recherches Google
         align: left
-        image: images/undraw_Search_1px8.png
+        image: images/claudio-schwarz-purzlbaum-uENjpJ0sCb0-unsplash.jpg
         image_position: left
         actions: []
       - title: Community manager
