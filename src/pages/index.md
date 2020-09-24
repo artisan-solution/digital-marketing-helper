@@ -27,7 +27,7 @@ sections:
         image: images/undraw_online_ad_mg4t.png
         image_position: right
         actions: []
-      - title: Référencement google Ads
+      - title: Référencement Google Ads
         content: Apparaissez dans les premiers dans les recherches google
         align: left
         image: images/undraw_Search_1px8.png
