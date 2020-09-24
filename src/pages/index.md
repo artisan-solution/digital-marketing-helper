@@ -33,7 +33,7 @@ sections:
         image: images/undraw_Search_1px8.png
         image_position: left
         actions: []
-      - title: Feature 3
+      - title: Community manager
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
