@@ -46,7 +46,7 @@ sections:
     actions: []
     align: left
     image_position: left
-    has_background: true
+    has_background: false
     background:
       background_color: white
       background_image_opacity: 0
