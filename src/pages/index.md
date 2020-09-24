@@ -42,7 +42,7 @@ sections:
         image_position: right
         actions: []
   - title: Le partenaire de votre marketing digital
-    subtitle: lorem-ipsum
+    subtitle: ''
     actions: []
     align: left
     image_position: left
