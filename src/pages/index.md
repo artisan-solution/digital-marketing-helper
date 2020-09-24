@@ -41,7 +41,7 @@ sections:
         image: images/magnificent-jupiter.png
         image_position: right
         actions: []
-  - title: L
+  - title: Le partenaire de votre marketing digital
     subtitle: lorem-ipsum
     actions: []
     align: left
