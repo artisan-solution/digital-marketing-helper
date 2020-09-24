@@ -41,7 +41,7 @@ sections:
         image: images/magnificent-jupiter.png
         image_position: right
         actions: []
-  - title: Le partenaire de votre marketing digital
+  - title: Confiez-nous votre Marketing Digital
     subtitle: ''
     actions: []
     align: left
