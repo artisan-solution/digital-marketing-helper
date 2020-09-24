@@ -11,7 +11,7 @@ sections:
     align: left
     image: images/undraw_social_growth_d0y3.png
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: blue
       background_image: images/undraw_pcsocial_16rw.png
