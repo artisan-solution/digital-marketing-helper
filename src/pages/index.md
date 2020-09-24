@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Digital Marketing Helper
-    subtitle: .
+    subtitle: Confiez-nous votre .
     actions:
       - label: Learn More
         url: /features
