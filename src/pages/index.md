@@ -35,10 +35,7 @@ sections:
         align: left
         image: images/undraw_Search_1px8.png
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
