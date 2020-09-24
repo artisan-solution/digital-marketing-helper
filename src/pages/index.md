@@ -27,7 +27,7 @@ sections:
       - title: Publicité Facebook (ads)
         content: Touchez directement votre clientèle grâce a la publicité ciblé
         align: left
-        image: images/feature.svg
+        image: images/undraw_social_girl_562b.png
         image_position: right
         actions:
           - label: Learn More
