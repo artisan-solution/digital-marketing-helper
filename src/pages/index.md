@@ -10,7 +10,7 @@ sections:
         style: secondary
     align: left
     image: images/Digital_Marketing_Helper_logo.png
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: blue
