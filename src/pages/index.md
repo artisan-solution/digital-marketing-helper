@@ -41,7 +41,7 @@ sections:
         image: images/magnificent-jupiter.png
         image_position: right
         actions: []
-  - title: 'Le partenaire '
+  - title: 'Le partenaire de '
     subtitle: lorem-ipsum
     actions: []
     align: left
