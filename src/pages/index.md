@@ -22,7 +22,7 @@ sections:
     title: Nos services
     features:
       - title: Publicité Facebook (ads)
-        content: Touchez directement votre clientèle grâce a la publicité ciblée
+        content: Touchez directement votre clientèle grâce à de la publicité ciblée
         align: left
         image: images/will-francis-r02wxT3-PYw-unsplash.jpg
         image_position: right
