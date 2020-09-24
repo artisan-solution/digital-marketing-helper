@@ -38,7 +38,7 @@ sections:
           Utiliser une stratégie adaptée sur les réseaux sociaux pour développer
           votre audience
         align: left
-        image: images/feature.svg
+        image: images/magnificent-jupiter.png
         image_position: right
         actions:
           - label: Learn More
