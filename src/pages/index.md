@@ -28,7 +28,7 @@ sections:
         image_position: right
         actions: []
       - title: Référencement Google Ads
-        content: Apparaissez dans les premiers résultats des recherches google
+        content: Apparaissez dans les premiers résultats des recherches Google
         align: left
         image: images/undraw_Search_1px8.png
         image_position: left
