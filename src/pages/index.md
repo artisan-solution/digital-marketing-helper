@@ -9,7 +9,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/Digital_Marketing_Helper_logo.png
+    image: images/undraw_social_growth_d0y3.png
     image_position: right
     has_background: true
     background:
