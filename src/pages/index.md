@@ -40,9 +40,6 @@ sections:
         align: left
         image: images/magnificent-jupiter.png
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
 template: advanced
 ---
