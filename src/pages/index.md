@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Digital Marketing Helper
-    subtitle: Le partenaire de votre Marketing Digital
+    subtitle: Le partenaire pour votre Marketing Digital
     actions:
       - label: Contact Us
         url: /contact
