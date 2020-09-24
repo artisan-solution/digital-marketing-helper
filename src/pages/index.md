@@ -35,9 +35,8 @@ sections:
         actions: []
       - title: Community manager
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Utiliser une stratégie adaptée sur les réseaux sociaux pour développer
+          votre audience
         align: left
         image: images/feature.svg
         image_position: right
