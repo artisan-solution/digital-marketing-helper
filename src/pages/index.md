@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Publicité Facebook(ads)
+      - title: Publicité Facebook (ads)
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
