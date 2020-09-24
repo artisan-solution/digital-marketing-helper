@@ -27,7 +27,7 @@ sections:
       - title: Publicité Facebook (ads)
         content: Touchez directement votre clientèle grâce a la publicité ciblé
         align: left
-        image: images/undraw_social_girl_562b.png
+        image: images/undraw_mobile_marketing_iqbr.png
         image_position: right
         actions: []
       - title: Feature 2
