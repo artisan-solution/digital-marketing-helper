@@ -30,7 +30,7 @@ sections:
         image: images/undraw_online_ad_mg4t.png
         image_position: right
         actions: []
-      - title: Feature 2
+      - title: Référencement google Ads
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
