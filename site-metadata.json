@@ -65,6 +65,13 @@
                 "url": "https://www.linkedin.com/",
                 "style": "link",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "content": "&copy; Artisan-Solution. All rights reserved.",
