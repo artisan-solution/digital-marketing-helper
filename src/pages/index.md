@@ -63,5 +63,11 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/Digital_Marketing_Helper_logo.png
+  - title: ⭐️ Témoignage de nos clients⭐️
+    team:
+      - src/data/team/person-7128a9kpz.json
+      - src/data/team/person-jwmqu9jlt.json
+      - src/data/team/person-0dsqybnvk.json
+    type: team_section
 template: advanced
 ---
