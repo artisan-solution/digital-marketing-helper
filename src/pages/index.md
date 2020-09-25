@@ -63,7 +63,7 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/Digital_Marketing_Helper_logo.png
-  - title: lorem-ipsum
+  - title: ⭐️ Témoignage de nos clients⭐️
     team:
       - src/data/team/person-7128a9kpz.json
     type: team_section
