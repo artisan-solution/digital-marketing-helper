@@ -54,7 +54,7 @@ sections:
     subtitle: ''
     actions: []
     align: left
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: white
