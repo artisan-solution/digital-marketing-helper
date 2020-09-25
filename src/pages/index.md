@@ -42,15 +42,9 @@ sections:
         image_position: right
         actions: []
       - title: Création de site web
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Confiez-nous la création de votre site web professionnel
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
         align: left
         image_position: left
         actions: []
