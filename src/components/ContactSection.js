@@ -24,9 +24,9 @@ export default class ContactSection extends React.Component {
                     <div className="form-select-wrap">
                       <select name="subject" id="subject">
                         <option value="">Please select</option>
-                        <option value="Business Inquiries">Business Inquiries</option>
-                        <option value="Sponsorship">Partnerships</option>
-                        <option value="Other">Other</option>
+                        <option value="Demande de renseignements">Demande de renseignements</option>
+                        <option value="Sponsorship">Partnerariats</option>
+                        <option value="Other">Autre</option>
                       </select>
                     </div>
                   </div>
@@ -36,8 +36,7 @@ export default class ContactSection extends React.Component {
                   </div>
                   <div className="form-group form-checkbox">
                     <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
-                    <label id="consent-label" htmlFor="consent">I understand that this form is storing my submitted information so I can be
-                      contacted.</label>
+                    <label id="consent-label" htmlFor="consent">Je comprends que ces informations sont enregistrees pour me recontacter.</label>
                   </div>
                   <div className="form-submit">
                     <button type="submit" className="button">Get In Touch</button>
