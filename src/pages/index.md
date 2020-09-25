@@ -41,7 +41,7 @@ sections:
         image: images/magnificent-jupiter.png
         image_position: right
         actions: []
-      - title: 'Création de '
+      - title: Création de site web
         content: >-
           ## Lorem ipsum
 
