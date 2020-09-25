@@ -7,7 +7,8 @@
             {
                 "label": "Nous contacter",
                 "url": "/contact",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ],
         "logo": "images/logo_small.png"
