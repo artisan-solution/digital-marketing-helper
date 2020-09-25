@@ -49,6 +49,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/igor-miske-JVSgcV8_vb4-unsplash.jpg
   - title: Confiez-nous votre Marketing Digital !
     subtitle: ''
     actions: []
