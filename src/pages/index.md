@@ -50,19 +50,6 @@ sections:
         actions: []
         type: feature
         image: images/igor-miske-JVSgcV8_vb4-unsplash.jpg
-  - title: Confiez-nous votre Marketing Digital !
-    subtitle: ''
-    actions: []
-    align: left
-    image_position: right
-    has_background: true
-    background:
-      background_color: white
-      background_image_opacity: 0
-      background_image_size: cover
-      background_image_repeat: no-repeat
-    type: hero_section
-    image: images/Digital_Marketing_Helper_logo.png
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -76,5 +63,18 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/pink-cedar.png
+  - title: Confiez-nous votre Marketing Digital !
+    subtitle: ''
+    actions: []
+    align: left
+    image_position: right
+    has_background: true
+    background:
+      background_color: white
+      background_image_opacity: 0
+      background_image_size: cover
+      background_image_repeat: no-repeat
+    type: hero_section
+    image: images/Digital_Marketing_Helper_logo.png
 template: advanced
 ---
