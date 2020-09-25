@@ -5,7 +5,7 @@ sections:
     title: Digital Marketing Helper
     subtitle: Le partenaire pour votre Marketing Digital
     actions:
-      - label: Contact Us
+      - label: Nous contacter
         url: /contact
         style: secondary
     align: left
