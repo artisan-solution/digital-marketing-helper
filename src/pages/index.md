@@ -67,6 +67,7 @@ sections:
     team:
       - src/data/team/person-7128a9kpz.json
       - src/data/team/person-jwmqu9jlt.json
+      - src/data/team/person-0dsqybnvk.json
     type: team_section
 template: advanced
 ---
