@@ -19,7 +19,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Nos services
+    title: NOS SERVIICES
     features:
       - title: Publicité Facebook (ads)
         content: Touchez directement votre clientèle grâce à de la publicité ciblée
