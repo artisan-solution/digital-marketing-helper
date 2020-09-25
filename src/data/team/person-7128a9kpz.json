@@ -3,7 +3,7 @@
     "link": "lorem-ipsum",
     "first_name": "",
     "last_name": "lorem-ipsum",
-    "bio": "> Agence très professionnelle et à l'écoute\n\n*Damien*",
+    "bio": "> Agence très professionnelle et à l'écoute\n***Damien***",
     "type": "person",
     "photo": "images/damien.png"
 }
