@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Digital Marketing Helper
-    subtitle: Le partenaire pour votre Marketing Digital
+    subtitle: Le partenaire idéal pour votre Marketing Digital
     actions:
       - label: Nous contacter
         url: /contact
@@ -41,11 +41,20 @@ sections:
         image: images/magnificent-jupiter.png
         image_position: right
         actions: []
-  - title: Confiez-nous votre Marketing Digital
+      - title: Création de site web
+        content: |+
+          Obtenez facilement un site web professionnel, attrayant et rapide.
+
+        align: left
+        image_position: left
+        actions: []
+        type: feature
+        image: images/igor-miske-JVSgcV8_vb4-unsplash.jpg
+  - title: Confiez-nous votre Marketing Digital !
     subtitle: ''
     actions: []
     align: left
-    image_position: left
+    image_position: right
     has_background: true
     background:
       background_color: white
