@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Nous contacter",
+                "label": "Contact us",
                 "url": "/contact",
                 "style": "primary",
                 "new_window": false
