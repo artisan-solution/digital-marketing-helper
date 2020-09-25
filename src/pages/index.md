@@ -43,7 +43,7 @@ sections:
         actions: []
       - title: Création de site web
         content: |+
-          Confiez-nous la création de votre site web professionnel
+          Obtenez facilement un site web professionnel, attrayant et rapide.
 
         align: left
         image_position: left
