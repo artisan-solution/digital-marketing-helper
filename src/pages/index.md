@@ -63,5 +63,11 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/Digital_Marketing_Helper_logo.png
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 template: advanced
 ---
