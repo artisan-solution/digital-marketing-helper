@@ -63,5 +63,8 @@ sections:
       background_image_repeat: no-repeat
     type: hero_section
     image: images/Digital_Marketing_Helper_logo.png
+  - title: lorem-ipsum
+    team: []
+    type: team_section
 template: advanced
 ---
