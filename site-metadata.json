@@ -2,7 +2,7 @@
     "description": "Le partenaire potur votre marketing digital",
     "header": {
         "title": "Home",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Contact Us",
