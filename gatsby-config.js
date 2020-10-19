@@ -28,6 +28,12 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
+  	{
+    	    resolve: `gatsby-plugin-facebook-pixel`,
+    	    options: {
+      		pixelId: "1304616703230073",
+    	    }
+	}
     ]
 };
